@@ -6,8 +6,11 @@ Na parte acadêmica, sou formada pela FATEC SP em Análise e desenvolvimento de 
 Ao longo da minha trajetória já aprendi e desenvolvi em diversas linguagens como python, javascript, java, C, C++, C#, Apex, PHP etc.
 
 Caso queira entrar em contato:
+
 LinkedIn: https://www.linkedin.com/in/ingrid-de-assis-souza/
+
 Trailhead: https://trailblazer.me/id/inbah
+
 E-mail: dingrisouzz@gmail.com
 
 Nos repositórios você pode ver alguns dos meus projetos.
